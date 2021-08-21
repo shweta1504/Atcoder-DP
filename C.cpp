@@ -4,7 +4,7 @@ using namespace std;
 #define ll long long int
 int main(int argc, char const *argv[]) {
 	
-	// Write your code here....
+
 	ll n;
 	cin>>n;
 	vector<vector<ll> > dp(3, vector<ll> (n, 0));
